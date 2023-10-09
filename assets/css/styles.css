@@ -1,0 +1,32 @@
+/* Basic styling (we can expand and refine this later) */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.hero {
+    height: 300px;
+    background-color: #eee;
+    /* Placeholder styling for the hero section */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Font Awesome icons styling */
+footer a {
+    color: #fff;
+    margin: 0 10px;
+}
