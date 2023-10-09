@@ -21,7 +21,12 @@ body {
 
 /* Header */
 header {
-    background-color: #c6427f ;
+    background-color: #d7f7fd ;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #1a1e26;
 }
 h1 {
     font-family: 'Handjet', sans-serif;
