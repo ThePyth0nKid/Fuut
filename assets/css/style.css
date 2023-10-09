@@ -1,5 +1,5 @@
 /*Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300&family=Passion+One&family=Roboto+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@300&family=Lato:wght@300&family=Oswald:wght@200;300&family=Passion+One&family=Roboto+Mono:wght@300&display=swap');
 
 
 /* Asterisk wildcard selector to  override default styles added by the browser */
@@ -16,6 +16,7 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #1a1e26;
+    font-family: 'Handjet', sans-serif;
 }
 
 /* Header */
