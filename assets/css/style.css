@@ -41,6 +41,12 @@ h1 {
     color: #1d2e3c;
 }
 
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
 /* Main */
 main {
     background-color: #2594d0;
