@@ -36,6 +36,9 @@ header a {
 
 h1 {
     font-family: 'Handjet', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #1d2e3c;
 }
 
 /* Main */
