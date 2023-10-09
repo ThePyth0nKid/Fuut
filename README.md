@@ -36,6 +36,6 @@ Fuut is dedicated to revolutionizing the food and culinary industry with cutting
 
 ## Setup and Installation
 
-1. Clone the repository: 
+1. Clone the repository:
    ```bash
    git clone https://github.com/ThePyth0nKid/Fuut.git
