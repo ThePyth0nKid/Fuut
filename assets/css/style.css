@@ -28,7 +28,7 @@ h1, h2, h3 {
 
 /* Header */
 header {
-    background-color: #d7f7fd ;
+    background-color: #edf2f7 ;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -62,7 +62,7 @@ header a {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #d7f7fd;
+    background-color: #edf2f7;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -123,7 +123,7 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    background-color: #d7f7fd;
+    background-color: #edf2f7;
 }
 
 /* Social-media descendants */
