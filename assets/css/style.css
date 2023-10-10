@@ -95,8 +95,19 @@ main {
 }
 
 /* Footer */
-footer {
-    background-color: #ff7c54;
+#social-media {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+/* Social-media descendants */
+#social-media i {
+    font-size: 160%;
+    padding: 5%;
+    color: #1d2e3c;
 }
 
 /* Media query: tablets and larger (768px and up) */
