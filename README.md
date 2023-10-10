@@ -21,12 +21,12 @@ Fuut is dedicated to revolutionizing the food and culinary industry with cutting
 
 - **HTML**
 - **CSS**
-- **JavaScript** (if you plan to use it later)
+- **JavaScript** (I plan to use it later)
 - **Font Awesome**: Used for icons.
 - **Photoshop 2024**: For image processing and design assets.
 - **DALL·E-3**: Utilized for generating unique images and designs.
 - **ChatGPT-4**: Integrated for interactive features and potential AI-driven interactions on the website.
-- **Google Fonts**: We use the fonts Lato, Oswald, and Roboto Mono for our web typography.
+- **Google Fonts**: We use the fonts Lato, Oswald, and Passion One for our web typography.
 
 ## Features
 
