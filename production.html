@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"
+        content="Fuut - The future of food and kitchen technology. Fully automated kitchen solutions, powered by artificial intelligence." />
+    <meta name="keywords" content="Fuut, kitchen technology, automation, AI, fast food, future of food" />
+
+    <title>Fuut</title>
+
+    <!-- Favicon-->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png" />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+
+<body>
+    <!-- Header -->
+    <header>
+        <a href="index.html">
+            <h1 id="logo">Fuut</h1>
+        </a>
+        <input type="checkbox" id="nav-toggle" name="nav-toggle" />
+        <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
+        <nav>
+            <ul id="menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="production.html" class="active">Production</a></li>
+                <li><a href="singup.html">Sign UP</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main content -->
+    <main>
+        <!-- Production section -->
+        <section id="products">
+            <h2>The Production</h2>
+
+            <!-- Production div -->
+            <div class="product-container">
+                <img src="assets/images/production1.png" alt="A robotic arm collecting sustainable materials, with a green background symbolizing sustainability.
+
+" class="product-image">
+                <p class="product-description">1. Material Procurement and Preparation</p>
+                <div class="hover-description">In this initial step, we utilize cutting-edge autonomous robots to gather and prep raw materials from sustainable
+                sources. These robots are programmed to leave the least ecological footprint and utilize materials with maximum
+                efficiency.
+</div>
+            </div>
+            <div class="product-container">
+                <img src="assets/images/production2.png" alt="A depiction of automated machinery and conveyor belts working in perfect synchronization." class="product-image">
+                <p class="product-description">2. High-Precision Assembly</p>
+                <div class="hover-description">Our fully automated assembly lines employ state-of-the-art technologies to piece together each product with unparalleled
+                precision and speed. Every step is overseen by AI systems that continuously learn and refine, minimizing errors.</div>
+            </div>
+            <div class="product-container">
+                <img src="assets/images/production3.png" alt="A robotic arm scanning a product with various sensors." class="product-image">
+                <p class="product-description">3. AI-Powered Quality Control</p>
+                <div class="hover-description">Every product undergoes rigorous quality control, executed by artificial intelligence. These systems utilize advanced
+                sensors and machine learning to detect even the smallest imperfections, ensuring only top-quality products leave our
+                factory.</div>
+            </div>
+            <div class="product-container">
+                <img src="assets/images/production4.png" alt="An autonomous electric delivery vehicle loading goods in front of a warehouse." class="product-image">
+                <p class="product-description">4. Sustainable Packaging and Dispatch</p>
+                <div class="hover-description">In the final phase, each product is packed in eco-friendly packaging made from recyclable materials. Autonomous vehicles
+                handle transportation to distribution centers, reducing emissions and ensuring an efficient supply chain.</div>
+            </div>
+
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <ul id="social-media">
+            <li>
+                <a href="https://www.facebook.com/" target="_blank" rel="noopener"
+                    aria-label="visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
+            </li>
+            <li>
+                <a href="https://www.twitter.com/" target="_blank" rel="noopener"
+                    aria-label="visit our Twitter page (opens in a new tab)"><i
+                        class="fa-brands fa-x-twitter"></i></i></a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/" target="_blank" rel="noopener"
+                    aria-label="visit our Youtube page (opens in a new tab)"><i
+                        class="fa-brands fa-youtube"></i></i></a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener"
+                    aria-label="visit our Instagram page (opens in a new tab)"><i
+                        class="fa-brands fa-instagram"></i></i></a>
+            </li>
+            <li>
+                <a href="https://www.tiktok.com/" target="_blank" rel="noopener"
+                    aria-label="visit our TikTok page (opens in a new tab)"><i class="fa-brands fa-tiktok"></i></i></a>
+            </li>
+        </ul>
+    </footer>
+
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/468aa9a1a4.js" crossorigin="anonymous"></script>
+
+    <!-- JavaScript for hover effect -->
+    <script>
+        const containers = document.querySelectorAll('.product-container');
+        containers.forEach(container => {
+            container.addEventListener('mouseover', () => {
+                container.querySelector('.hover-description').style.display = 'block';
+            });
+            container.addEventListener('mouseout', () => {
+                container.querySelector('.hover-description').style.display = 'none';
+            });
+        });
+    </script>
+
+</body>
+
+</html>
