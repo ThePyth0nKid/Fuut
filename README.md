@@ -27,19 +27,25 @@ This website is made up of the following sections:
 
 The home section serves as an introduction to Fuut,I showcase a premium-quality hero image that immediately captivates the viewer and piques their curiosity to learn more.
 
-![Fuut Logo](assets/images/hero-image.png)
+![Hero-image](assets/images/hero-desk.png)
 
 ## Why Fuut?
 
 Discover the philosophy and vision behind Fuut's innovations. Understand why sustainability and automation are crucial in shaping the future of food. Dive into our commitment to the environment and our dedication to reshaping the culinary world.
 
+![Why-Fuut-image](assets/images/why.png)
+
 ## Our Products
 
 From the "Galaxy 3000", the world's premier Food 3D Printer, to the "Fuuty", an autonomous food truck, explore the diverse range of products that Fuut offers. Each product is a testament to Fuut's dedication to blending technology, convenience, and sustainability.
 
+![Products-image](assets/images/our-products.png)
+
 ## Ask Us
 
 Have queries or wish to learn more? The "Ask Us" section provides a platform for visitors to reach out and get their questions answered. Dive deeper into the world of Fuut and join us in this culinary revolution.
+
+![Ask-image](assets/images/ask.png)
 
 ## UX
 
