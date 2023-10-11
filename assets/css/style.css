@@ -330,7 +330,7 @@ button:hover {
     #logo {
         font-size: 280%;
         line-height: 75px;
-        margin-top: 0 1rem;
+        margin: 0 0.5rem;
     }
 
     /* Main content */
