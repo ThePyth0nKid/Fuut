@@ -130,17 +130,17 @@ main {
     font-size: 280%;
 }
 
-#benefits-physical>div,
-#benefits-mental>div {
+#why-fuut-left>div,
+#why-fuut-right>div {
     line-height: 20px;
     margin-bottom: 20px;
 }
 
-#benefits p {
+#why-fuut p {
     padding: 0 20px;
 }
 
-#benefits hr {
+#why-fuut hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
@@ -156,7 +156,7 @@ main {
     max-height: 300px;
 }
 
-#benefits-image {
+#why-fuut-image {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -345,18 +345,18 @@ button:hover {
     }
 
     /* Why section */
-    #benefits-physical, #benefits-mental {
+    #why-fuut-left, #why-foot-right {
         display: flex;
         flex-direction: column;
         width: 100%;
     }
 
-    #benefits-physical > div,
-    #benefits-mental > div {
+    #why-fuut-left > div,
+    #why-fuut-right > div {
             width: 75%;
     }
 
-    #benefits-mental>div {
+    #why-fuut-right>div {
         text-align: end;
         align-self: flex-end;
     }
@@ -371,28 +371,28 @@ button:hover {
 /* Media query: laptops (1200px and larger) */
 @media screen and (min-width: 1200px) {
     /* Why section */
-    #benefits {
+    #why-fuut {
         display: flex;
         flex-direction: row;
     }
 
-    #benefits > div {
+    #why-fuut > div {
         flex: 1;
     }
 
-    #benefits-image {
+    #why-fuut-image {
         order: 0;
     }
 
-    #benefits-mental {
+    #why-fuut-right {
         order: 1;
     }
 
-    #benefits-mental > div {
+    #why-fuut-right > div {
         align-self: flex-start;
     }
 
-    #benefits-physical > div {
+    #why-fuut-left> div {
         align-self: flex-end;
     }
 }
