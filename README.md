@@ -1,6 +1,6 @@
 # Fuut
 
-[Visit the Fuut website here](https://github.com/ThePyth0nKid/Fuut)
+[Visit the Fuut website here](https://thepyth0nkid.github.io/Fuut/)
 
 ![Fuut Logo](assets/images/website_device.png)
 
@@ -118,10 +118,23 @@ Lighthouse is a feature of Google Chrome developer tools and is used to assess t
 
 ### **HTML and CSS Validation**
 
-I validated both my HTML and CSS.
+I validated both my HTML and CSS. At first I had a few errors but they were easy to find and fix
+
+![HTML Error1](assets/images/html-check-problems1.png)
+
+![HTML Error2](assets/images/html-check-problems2.png)
+
+So that in the end there were no more errors.
+
+![HTML](assets/images/html-check-finsh.png)
 
 ![css](assets/images/css-check-finsh.png)
-![HTML](assets/images/html-check-finsh.png)
+
+### **Known bugs and fixes**
+
+As part of my testing I wanted to ensure that all of my clickable links worked & opened up in a new page, I found that twone of the links when clicked gave a 404 error message:
+
+
 
 ---
 
