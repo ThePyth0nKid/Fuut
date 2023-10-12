@@ -18,10 +18,12 @@ Created to inspire and inform individuals interested in the future of food techn
 
 This website is made up of the following sections:
 
-1. Home/High quality hero image
-2. Why Fuut?
-3. Our Products
-4. Ask us
+1. Header with navbar
+2. Home/High quality hero image
+3. Why Fuut?
+4. Our Products
+5. Ask us
+6. Footer with social medid icons
 
 ## Home/Introduction
 
