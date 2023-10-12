@@ -47,6 +47,8 @@ Have queries or wish to learn more? The "Ask Us" section provides a platform for
 
 ![Ask-image](assets/images/ask.png)
 
+Social media links in the footer which are linked to the homepage of Facebook, Twitter, Instagram and TikTok as Fuut does not have its own social media profile.
+
 ## UX
 
 ---
@@ -56,12 +58,14 @@ Have queries or wish to learn more? The "Ask Us" section provides a platform for
 Considering the core UX principles, I began by contemplating the strategy for this website, defining the target users and the features/technologies they would desire.
 
 Fuut's target users are:
-* Aged 25-50
-* Technology enthusiasts and early adopters
-* Individuals interested in sustainable and automated food solutions
-* Households or businesses looking to modernize their culinary process
+
+- Aged 25-50
+- Technology enthusiasts and early adopters
+- Individuals interested in sustainable and automated food solutions
+- Households or businesses looking to modernize their culinary process
 
 What these users would be looking for:
+
 - Clear, concise, easy-to-find information
 - Beautiful photos that provide inspiration
 
@@ -93,10 +97,16 @@ I have used several technologies that have enabled this design to work:
   - Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
 - [Gitpod](https://www.gitpod.io/)
   - Used as the development environment.
-
+- [Dall-E3](https://chat.openai.com/)
+  - for image creation and inspiration
+- [ChatGPT4](https://chat.openai.com/)
+  - for text, inspiration and problem solving
+  
 ---
 
 ## Testing
+
+First of all, I tested all the functions myself. Then I validated and tested everything as standard using all the means listed.
 
 ### **Lighthouse**
 
@@ -153,10 +163,18 @@ Cloning your repository will allow you to download a local version of the reposi
 
 The following websites/articles were used for research and guidance:
 
+- [Love Running walkthrough project, that always accompanied me on my first project] (<https://learn.codeinstitute.net>)
+
+- [Troubleshooting] (<https://chat.openai.com/>)
+
+- [Readme Tips and Structure] (<https://github.com/daisygunn/la-petite-traveller/blob/master/README.md?plain=1>)
+
 --
 
 ## Acknowledgements
 
-I would like to thank my course mentor  Harry Dhillon for his support and guidance throughout the course of the project and my fellow students Nathan and Denis Hardi for their support & feedback.
+I would like to thank my course mentor  Harry Dhillon for his support and guidance throughout the course of the project and my fellow students Nathan and Denis Hardi for their support & feedback
+Then I would like to say a special thank you to Adam Kastell, who always motivated me and helped me get into the course and ultimately into this project.
+Finally, I would like to thank everyone who took the time to look at the project. It was my first own project and I am very happy that I took this path. The support and friendliness I have experienced so far on my path to becoming a full-stack software developer is great and wonderful. Thanks
 
 ---
