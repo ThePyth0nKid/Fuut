@@ -25,6 +25,12 @@ This website is made up of the following sections:
 5. Ask us
 6. Footer with social medid icons
 
+## Header/Navbar
+
+Structured, minimal, responsive, perfect for my first website.
+
+![Header-image](assets/images/header.png)
+
 ## Home/Introduction
 
 The home section serves as an introduction to Fuut,I showcase a premium-quality hero image that immediately captivates the viewer and piques their curiosity to learn more.
@@ -49,7 +55,11 @@ Have queries or wish to learn more? The "Ask Us" section provides a platform for
 
 ![Ask-image](assets/images/ask.png)
 
-Social media links in the footer which are linked to the homepage of Facebook, Twitter, Instagram and TikTok as Fuut does not have its own social media profile.
+## Footer with social media icons
+
+Social media links in the footer which are linked to the homepage of Facebook, Twitter, Instagram and TikTok as Fuut does not have its own social media profile. Just like the header, structured, minimal, responsive, perfect for my first website
+
+![Footer-image](assets/images/footer.png)
 
 ## UX
 
@@ -130,12 +140,6 @@ So that in the end there were no more errors.
 
 ![css](assets/images/css-check-finsh.png)
 
-### **Known bugs and fixes**
-
-As part of my testing I wanted to ensure that all of my clickable links worked & opened up in a new page, I found that twone of the links when clicked gave a 404 error message:
-
-
-
 ---
 
 ## Deployment
@@ -184,7 +188,7 @@ The following websites/articles were used for research and guidance:
 
 - [Readme Tips and Structure] (<https://github.com/daisygunn/la-petite-traveller/blob/master/README.md?plain=1>)
 
---
+---
 
 ## Acknowledgements
 
